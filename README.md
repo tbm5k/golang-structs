@@ -1,3 +1,3 @@
 ## Go structs
 Basically the classes of Go, not exacly but yeah...
-> Over simplification on steriods
+> Oversimplification on steroids
